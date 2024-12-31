@@ -1,1 +1,2 @@
-# Employee-Salary-Predication
+# Employee Salary Predication Using RandomForest
+### The dataset, named employee_data.csv, contains simulated data of 400 employees working in various IT-related positions. The data includes details about each employee's gender, years of experience, position, and salary. The dataset aims to reflect realistic distributions and variations within the IT industry, particularly how salaries tend to increase with experience and the specific job role. This dataset was generated using the Faker library in Python, which allows for the creation of realistic fake data for various applications.
